@@ -32,7 +32,7 @@ Learn about our development process and how you can contribute to OroCommerce.
 .. toctree::
     :maxdepth: 1
 
-        community_guide/index
+    community_guide/index
 
 
 The Bundles
