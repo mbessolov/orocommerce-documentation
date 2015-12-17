@@ -25,15 +25,14 @@ to achieve result in quick and right way without going deep into technical detai
     cookbook/index
 
 
-User Guide
-----------
-
-End user oriented documentation that explains how to administer and configure OroCommerce features.
+Community Guide
+---------------
+Learn about our development process and how you can contribute to OroCommerce.
 
 .. toctree::
     :maxdepth: 1
 
-    user_guide/index
+        community_guide/index
 
 
 The Bundles
