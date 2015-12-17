@@ -1,5 +1,5 @@
 OroCommerce Documentation
-==============================
+=========================
 
 The Book
 --------
@@ -36,11 +36,12 @@ End user oriented documentation that explains how to administer and configure Or
     user_guide/index
 
 
-Community Guide
----------------
-Learn about our development process and how you can contribute to OroCommerce.
+The Bundles
+-----------
+
+Learn more about all the bundles that are available from the bundles section:
 
 .. toctree::
-    :maxdepth: 1
+    :maxdepth: 2
 
-    community_guide/index
+    bundles/index.rst
